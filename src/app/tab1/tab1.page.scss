@@ -1,0 +1,31 @@
+ion-thumbnail{
+    height: 100px;
+    width: 100px;
+}
+ion-label{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tipos{
+    text-align: center;
+    margin-top: 5px;
+}
+ion-badge{
+    padding: 8px;
+    margin-left: 5px;
+}
+.num{
+    margin-left: 205px;
+    margin-top: -25px;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid 1px var(--ion-color-nubers);
+    background-color:  var(--ion-color-nubers-tint);
+    color: var(--ion-color-nubers);;
+}
+
+.flying{
+    background: linear-gradient(180deg, var(--ion-color-flyon) 50%, var(--ion-color-flydeux)50%);
+}
